@@ -1,0 +1,17 @@
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\bin\Release\FTP_Client.exe.config
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\bin\Release\FTP_Client.exe
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\bin\Release\FTP_Client.pdb
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\About.baml
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\MainWindow.baml
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\About.g.cs
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\MainWindow.g.cs
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\App.g.cs
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\FTP_Client_MarkupCompile.cache
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\FTP_Client.g.resources
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\FTP_Client.csproj.GenerateResource.Cache
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\FTP_Client.exe
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\FTP_Client.pdb
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\FTP_Client.csprojResolveAssemblyReference.cache
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\FTP_Client.Resources.resources
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\FilenameDialog.baml
+F:\study\program\Web\qxk\FTP_Client\FTP_Client\obj\Release\FilenameDialog.g.cs
